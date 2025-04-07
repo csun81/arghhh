@@ -90,6 +90,7 @@
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85288</Zip>
+		</Address>
 	</Hotel>
 	<Hotel>
 		<Name>Hyatt Place</Name>
@@ -123,6 +124,5 @@
 			<City>Scottsdale</City>
 			<State>AZ</State>
 			<Zip>85257</Zip>
-		</Address>
 	</Hotel>
 </Hotel>
