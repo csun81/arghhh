@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
-<Hotels>
+<Hotels
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xsi:noNamescapeSchemaLocation="https://csun81.github.io/arghhh/Hotels.xsd">
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
