@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="https://csun81.github.io/arghhh/Hotels.xsd">
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
@@ -126,4 +126,4 @@
 			<State>AZ</State>
 			<Zip>85257</Zip>
 	</Hotel>
-</Hotel>
+</Hotels>
