@@ -4,7 +4,7 @@
 	<xs:element name="Hotels">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element name="Hotel" minOccurs ="1" maxOccurs="1"/>
+				<xs:element name="Hotel" minOccurs ="12" maxOccurs="unbounded"/>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
